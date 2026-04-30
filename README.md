@@ -14,7 +14,7 @@ A simple, modern To-Do app built with HTML, CSS, and JavaScript.
 - JavaScript (ES6+)
 
 ## Live Demo
-[View Live](https://niteshsingh-x.github.io/todo-app/)
+[View Live](https://niteshsingh-x.github.io/to-do---app/)
 
 ## How to Run
 1. Clone this repo
